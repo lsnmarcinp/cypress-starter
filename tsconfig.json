@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "baseUrl": "../node_modules",
+    "target": "ES2016",
+    "lib": ["ES2017", "dom"],
+    "types": ["cypress"],
+    "inlineSourceMap": true
+  },
+  "include": ["**/*.ts"]
+}

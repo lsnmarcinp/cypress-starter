@@ -1,0 +1,23 @@
+{
+  "name": "cypress-starter",
+  "version": "0.0.1",
+  "description": "cypress starter pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsnmarcinp/cypress-starter.git"
+  },
+  "author": "Marcin Piasecki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsnmarcinp/cypress-starter/issues"
+  },
+  "homepage": "https://github.com/lsnmarcinp/cypress-starter#readme",
+  "dependencies": {
+    "cypress": "^4.4.0",
+    "typescript": "^3.8.3"
+  }
+}
